@@ -1,7 +1,3 @@
-// <⚠️ DONT DELETE THIS ⚠️>
-import "./styles.css";
-// <⚠️ /DONT DELETE THIS ⚠️>
-
 const inputRange = document.querySelector("input[name='rangePoint']"),
   userPoint = document.querySelector("input[name='userPoint']"),
   formPlay = document.querySelector(".play");
